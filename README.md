@@ -1,5 +1,6 @@
 # . ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁
 
+![Views](https://komarev.com)
 
 # pages . ݁₊ ⊹ . ݁˖ . ݁
 
@@ -11,4 +12,3 @@
 #  . ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁ . ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁
 ![Alt text](https://i.pinimg.com/originals/3e/64/01/3e6401d5631f57264cd758db9db25179.gif)
 
-![Views](https://img.shields.io/badge/Views-10k-brightgreen)
